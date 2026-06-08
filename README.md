@@ -39,6 +39,16 @@ Contains:
 
 ---
 
+The datasets used in this project exceed GitHub web upload limits and are therefore not included in the repository.
+
+Historical Trader Data:
+- Hyperliquid Trading Dataset
+
+Fear & Greed Data:
+- Bitcoin Fear & Greed Index
+
+Please place the datasets inside the `data/` folder before running the notebook.
+
 ## Methodology
 
 1. Data Loading
